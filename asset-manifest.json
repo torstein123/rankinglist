@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rankinglist/static/css/main.b542e0f5.css",
+    "main.js": "/rankinglist/static/js/main.342c089f.js",
+    "static/js/787.28cb0dcd.chunk.js": "/rankinglist/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/rankinglist/index.html",
+    "main.b542e0f5.css.map": "/rankinglist/static/css/main.b542e0f5.css.map",
+    "main.342c089f.js.map": "/rankinglist/static/js/main.342c089f.js.map",
+    "787.28cb0dcd.chunk.js.map": "/rankinglist/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b542e0f5.css",
+    "static/js/main.342c089f.js"
+  ]
+}
